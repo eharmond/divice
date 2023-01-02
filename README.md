@@ -14,3 +14,7 @@ Next we’ll provide the details of my device:
 >>> username = ‘admin’
 >>> password = ‘secretpassword’
 >>> device = ConnectHandler(device_type=platform, ip=host, username=username, password=password)
+
+
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.htmlin the 
+Who see this, I am working on develping instruction for Edmarc, Forigate, Aruba just like Cisco did in the above link.
